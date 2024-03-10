@@ -1,0 +1,11 @@
+1. What is nodeJS used for
+To run javascript outside of a browser. It is a runtime env for javascript
+
+2. What are the 2 functional purpose of javascript?
+Client side js - or bulding websites (HTML + CSS + JS)
+server scripting side - node.js
+
+What confirms its a node.js project??
+presence of package.json
+
+We need to handle async operations and make it work in a synchronous way

@@ -1,0 +1,21 @@
+{
+  "store": {
+    "book": [
+      {
+        "name": "book1",
+        "author": "abc",
+        "price": 20
+      },
+      {
+        "name": "book2",
+        "author": "def",
+        "price": 10
+      },
+      {
+        "name": "book3",
+        "author": "ghi",
+        "price": 40
+      }
+    ]
+  }
+}

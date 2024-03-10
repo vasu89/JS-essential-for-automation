@@ -1,0 +1,23 @@
+{
+  "name": "js-essential-for-automation",
+  "version": "1.0.0",
+  "description": "learning basics of js",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests",
+    "demo": "node ./modules/process/processEnv.js",
+    "demo2": "export TARGET=TEST && node ./modules/process/processEnv.js",
+    "cwd": "node ./modules/process/processCwd.js",
+    "fileDemo": "node ./modules/fileSys/fileDemo.js",
+    "errorDemo": "node ./error/error.js",
+    "throwTryCatch": "node ./error/throwTryCatch.js"
+  },
+  "author": "Vasudha Ramaswamy",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
